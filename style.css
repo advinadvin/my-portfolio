@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { margin: 0; padding: 0; }
+p { margin: 5px 0 10px 0; }
+
+body
+{ 
+    
+	font-family: 'Karla', sans-serif;
+	font-size: 16px;
+	color:#000;
+}
+
+
+
+
+header {
+ background: #ffffcc url(images/header-gradient.jpg) repeat-x;
+ 
+}
+.header-bg {
+ background: url(images/head1.jpg) no-repeat center top; 
+ height: 650px; 
+ 
+
+}
+
+h1
+{
+	font-size:46px;
+	font-weight:800;
+	color:#fff;
+	padding-top: 70px;	
+}
+
+h2
+{
+	font-size:36px;
+	color:#fff;
+	font-weight:800;
+	
+}
+
+h2.footerorder
+
+{
+	font-size:36px;
+	color:#dead50;
+	font-weight:800;
+}
+
+h2.footerorder a
+
+{
+	
+	color:#dead50;
+	
+}
+
+h3
+{
+	font-size:26px;
+	color:#000;
+	margin-top:50px;
+	font-weight:600;
+	
+	
+}
+div.header
+{
+	
+	width: 100%;
+	min-height: 600px;
+	
+	
+	
+}
+
+
+
+a.headerlink
+{ 
+   color:#fff;
+   
+}
+
+.headerlogo
+{
+	font-size:24px;
+	font-weight:bold;
+	color:#fff;
+}
+
+.reviws {
+    
+    width: 300px; 
+    margin: 0 10px 10px 0;  
+    padding: 10px 0; 
+    text-align: center; 
+    display: inline-block; 
+	vertical-align:top;
+   }
+   
+   .reviws p {
+    margin: 0; 
+   }
+
+.caption
+{
+	font-style:italic;
+}
+
+
+
+.fixed_menu_wrapper
+{ 
+    
+	position: fixed;
+	background-color:#000;
+	height: 50px;
+	width: 100%;
+	}
+
+.menu_item
+{ 
+    margin-right: 5px;
+    padding-top: 15px;
+	display: inline-block;
+}
+	.menu_item a
+	
+{
+	color:#FFF;
+	
+}
+
+div.sepparator
+{
+	background-image: url(images/pic.gif);
+	height: 1px;
+}
+
+div.wrapper
+{
+	display: block;
+			
+}
+
+
+div.central
+{
+	min-width: 320px;
+	max-width: 1280px;
+	margin-left:10px;
+	margin-right: 10px;
+	
+}
+
+
+	
